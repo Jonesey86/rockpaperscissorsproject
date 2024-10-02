@@ -1,0 +1,5 @@
+C:\Users\ianro\Desktop\rockpaperscissorsproject\obj\Debug\net8.0\rockpaperscissorsproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianro\Desktop\rockpaperscissorsproject\obj\Debug\net8.0\rockpaperscissorsproject.AssemblyInfoInputs.cache
+C:\Users\ianro\Desktop\rockpaperscissorsproject\obj\Debug\net8.0\rockpaperscissorsproject.AssemblyInfo.cs
+C:\Users\ianro\Desktop\rockpaperscissorsproject\obj\Debug\net8.0\rockpaperscissorsproject.csproj.CoreCompileInputs.cache
+C:\Users\ianro\Desktop\rockpaperscissorsproject\obj\Debug\net8.0\rockpaperscissorsproject.sourcelink.json
