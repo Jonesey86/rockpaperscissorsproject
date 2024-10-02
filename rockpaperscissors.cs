@@ -12,7 +12,7 @@ namespace Rock_Paper_Scissors
         int playerScore = 0;
         int enemyScore = 0;
 
-        Console.WriteLine("Welcome to rock paper scissors"); // The name of the game is Rock,Paper,Scissors
+        Console.WriteLine("Welcome to rock paper scissors");
 
         while(playerScore != 3 && enemyScore != 3)
         {
@@ -83,7 +83,7 @@ namespace Rock_Paper_Scissors
                 }
             }
             {
-                    if(playerScore == 3) // This is the outcome of a player winning / losing
+                    if(playerScore == 3)
                     {
                         Console.WriteLine("You win!");
                     }
